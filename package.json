@@ -1,0 +1,20 @@
+{
+  "name": "project-tdd",
+  "version": "1.0.0",
+  "description": "An express backend and testing using jest",
+  "main": "index.js",
+  "repository": "https://github.com/divyamanis/express-with-tdd.git",
+  "author": "Divya N",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  },
+  "devDependencies": {
+    "jest": "^27.2.0",
+    "supertest": "^6.1.6"
+  }
+}
